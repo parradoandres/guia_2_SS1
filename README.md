@@ -3,7 +3,7 @@ Entrega Guia 2
 # Análisis de desercion en Telecomunicaciones
 
 ## Descripción del Proyecto
-Este proyecto analiza el dataset de churn de una empresa de telecomunicaciones para identificar patrones y factores que contribuyen a la deserción de clientes. Utilizando Python y bibliotecas como Pandas, se exploran distintas variables como minutos de uso, cargos de llamadas y número de llamadas al servicio al cliente para determinar su impacto en la deserción de clientes.
+Este proyecto analiza el dataset de deserción de una empresa de telecomunicaciones para identificar patrones y factores que contribuyen a la deserción de clientes. Utilizando Python y bibliotecas como Pandas, se exploran distintas variables como minutos de uso, cargos de llamadas y número de llamadas al servicio al cliente para determinar su impacto en la deserción de clientes.
 
 ## Características del Dataset
 El dataset incluye las siguientes columnas:
